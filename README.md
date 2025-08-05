@@ -1,4 +1,4 @@
-<img width="785" height="206" alt="image" src="https://github.com/user-attachments/assets/f5bff876-1f8c-4768-802f-d9a3e2bae4a5" /># Cisco-Networking-Academy-Ethical-Hacker
+# Cisco-Networking-Academy-Ethical-Hacker
 
 ## Introduction
 
